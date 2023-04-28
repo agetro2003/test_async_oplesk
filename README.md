@@ -1,29 +1,10 @@
 # SOCIAL OPLESK
 ### 🏴‍☠️ HACKS - ASYNC
+### Jesús Daniel Ortega Briceño
+## Resultados
 
-<br/>
 
-📚 tutoriales de javascript [tutorial 1](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) | [tutorial 2](https://www.w3schools.com/js/) | [tutorial 3](https://es.javascript.info/)
----
-
-```diff
-- NOTA HACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE  
-```
-
-```diff
-* Tienes que clonar el repositorio 
-  git clone https://github.com/SocialOplesk/test_nodejs_async.git
-  
-* Instalar las dependencias del ecosistema test_nodejs_async:
-  npm install 
-
-* Para validar los hacks "hack_número_del_hack"
-  npm run test hack_1/
-  npm run test hack_2/
-  npm run test hack_3/
-  npm run test hack_(por cada número de hack)/
-```
-<br/>
+![Resultados](hacksResults.png)
 
 |Hacks | Details | 
 |----------|---------|
