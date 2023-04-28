@@ -9,9 +9,13 @@
 }
  NOTA: se envia el "id" por parámetro con valor 50
 */
+const fetch = require('cross-fetch');
 
 async function fnTest(id) {
-  return
+  const response = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`, {
+    method:'PUT',
+  })
+  return response
 }
 
 module.exports = fnTest;
